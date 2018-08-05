@@ -1,7 +1,9 @@
 /*.............................
 GRID
 ............................ */
-
+body{
+	font-family: 'Noto Sans', sans-serif;
+}
 .contener{
 	width: 1140px;
 	margin-left: auto;
